@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\hk\source\repos\c++\4\four\four\source.cpp(6): warning C4101: 'transpose': unreferenced local variable
+  four.vcxproj -> C:\Users\hk\source\repos\C++\4\four\Debug\four.exe
